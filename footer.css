@@ -1,0 +1,20 @@
+footer{
+    background-color: black!important;
+}
+.social-icons i {
+    font-size: 24px!important; /* Adjust the size as needed */
+}
+.social-icons a{
+    text-decoration: none;
+}
+.social-icons .fa-facebook {
+    color: blue!important; /* Blue color for Facebook */
+}
+
+.social-icons .fa-instagram {
+    color: brown!important; /* Brown color for Instagram */
+}
+
+.social-icons .fa-square-twitter {
+    color: #1DA1F2!important; /* Twitter blue color */
+}
